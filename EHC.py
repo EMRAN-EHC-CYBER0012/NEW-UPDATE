@@ -4,4 +4,4 @@
 
 import os
 import mc
-mc.loging.()
+mc.loging()
